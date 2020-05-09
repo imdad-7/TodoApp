@@ -1,3 +1,1 @@
-# TodoApp
-
-A simple Todo App using Python and Django
+Todo App where we can add/remove list of objects.
